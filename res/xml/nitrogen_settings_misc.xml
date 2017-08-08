@@ -50,10 +50,16 @@
             android:summary="@string/show_cpu_info_summary" 
             android:defaultValue="false" />
 
-        <com.nitrogen.settings.preferences..GlobalSettingSwitchPreference
+        <com.nitrogen.settings.preferences.GlobalSettingSwitchPreference
             android:key="system_default_animation"
             android:title="@string/system_default_animation_title"
             android:summary="@string/system_default_animation_summary"
+            android:defaultValue="false" />
+
+        <com.nitrogen.settings.preferences.GlobalSettingSwitchPreference
+            android:key="sensor_block"
+            android:title="@string/sensor_block_title"
+            android:summary="@string/sensor_block_summary"
             android:defaultValue="false" />
 
 </PreferenceScreen>
