@@ -624,4 +624,11 @@
 
     <!-- QuickSettings Panel Transparency -->
     <string name="qs_panel_alpha_title">Opacity</string>
+
+    <!-- UTouch -->
+    <string name="hardware_keys_utouch_key_title">U-Touch</string>
+    <string name="hardware_keys_utouch_long_tap_title">Long tap action</string>
+    <string name="hardware_keys_utouch_left_swipe_title">Left swipe action </string>
+    <string name="hardware_keys_utouch_right_swipe_title">Right swipe action </string>
+
 </resources>
