@@ -631,4 +631,8 @@
     <string name="hardware_keys_utouch_left_swipe_title">Left swipe action </string>
     <string name="hardware_keys_utouch_right_swipe_title">Right swipe action </string>
 
+    <!-- System default animation -->
+    <string name="system_default_animation_title">Android P animation style</string>
+    <string name="system_default_animation_summary">Enable Android P \"Default\" animations</string>
+
 </resources>
